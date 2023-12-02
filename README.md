@@ -1,2 +1,2 @@
-# This JSON file is about reaching cool and best website on the internet that have awesome game when you BORED!
-if you want, you can contriboute with that too.
+# This JSON file is about reaching the coolest and best website on the internet with an awesome game when you are BORED!
+If you'd like, you can contribute to that too.
