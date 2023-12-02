@@ -1,8 +1,10 @@
 {
-    "Title": "Games List",
-    "Descreption": "List of BEST web site that provid online games based on WEB. You can add som web sites too.",
-    "GamesList": [{
-        "Web1": "https://www.coolmathgames.com",
-        "Web2": "https://www.crazygames.com"
-    }]
+  "Title": "Games List",
+  "Descreption": "List of BEST web site that provid online games based on WEB. You can add som web sites too.",
+  "GamesList": [
+    {
+      "Web1": "https://www.coolmathgames.com",
+      "Web2": "https://www.crazygames.com"
+    }
+  ]
 }
