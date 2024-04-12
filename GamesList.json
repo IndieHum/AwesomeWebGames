@@ -1,15 +1,17 @@
 {
-    "Title": "Games List",
-    "Descreption": "List of BEST web site that provid online games based on WEB. You can add som web sites too.",
-    "GamesList": [
-        {
-            "Web1": "https://www.coolmathgames.com",
-            "Web2": "https://www.crazygames.com",
-            "Web3": "https://gartic.io/",
-            "Web4": "https://jellymar.io/",
-            "Web5": "https://archive.org/details/internetarcade",
-            "Web6": "https://myemulator.online/",
-            "Web7": "https://krunker.io/"
-        }
-    ]
+  "Title": "Games List",
+  "Descreption": "List of BEST web site that provid online games based on WEB. You can add som web sites too.",
+  "GamesList": [
+    {
+      "Web1": "https://www.coolmathgames.com",
+      "Web2": "https://www.crazygames.com",
+      "Web3": "https://gartic.io/",
+      "Web4": "https://jellymar.io/",
+      "Web5": "https://archive.org/details/internetarcade",
+      "Web6": "https://myemulator.online/",
+      "Web7": "https://krunker.io/",
+      "Web8": "https://playtictactoe.org/",
+      "Web9": "https://pranx.com/maze/"
+    }
+  ]
 }
