@@ -3,22 +3,22 @@
   "Descreption": "List of BEST web site that provid online games based on WEB. You can add som web sites too.",
   "GamesList": [
     {
-      "web": "https://www.coolmathgames.com",
-      "web": "https://www.crazygames.com",
-      "web": "https://gartic.io",
-      "web": "https://jellymar.io",
-      "web": "https://archive.org/details/internetarcade",
-      "web": "https://myemulator.online",
-      "web": "https://krunker.io",
-      "web": "https://playtictactoe.org",
-      "web": "https://pranx.com/maze",
-      "web": "https://copy.sh/iw",
-      "web": "https://territorial.io",
-      "web": "https://1v1.lol",
-      "web": "https://neal.fun/infinite-craft",
-      "web": "https://orteil.dashnet.org/cookieclicker",
-      "web": "https://goosegame.io",
-      "web": "https://zombsroyale.io"
+      "web-1": "https://www.coolmathgames.com",
+      "web-2": "https://www.crazygames.com",
+      "web-3": "https://gartic.io",
+      "web-4": "https://jellymar.io",
+      "web-5": "https://archive.org/details/internetarcade",
+      "web-6": "https://myemulator.online",
+      "web-7": "https://krunker.io",
+      "web-8": "https://playtictactoe.org",
+      "web-9": "https://pranx.com/maze",
+      "web-10": "https://copy.sh/iw",
+      "web-11": "https://territorial.io",
+      "web-12": "https://1v1.lol",
+      "web-13": "https://neal.fun/infinite-craft",
+      "web-14": "https://orteil.dashnet.org/cookieclicker",
+      "web-15": "https://goosegame.io",
+      "web-16": "https://zombsroyale.io"
     }
   ]
 }
